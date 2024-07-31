@@ -49,6 +49,7 @@
 ![Data Science](https://img.shields.io/badge/-Data_Science-333333?style=flat&logo=data-science)
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-333333?style=flat&logo=machine-learning)
 ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-333333?style=flat&logo=deep-learning)
+![AWS Cloud Computing](https://img.shields.io/badge/-AWS_Cloud_Computing-333333?style=flat&logo=amazon-aws)
 
 ## Contributions
 - Contributed to various open-source projects to enhance my skills and collaborate with the community.
