@@ -8,9 +8,9 @@
 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/naga-varun-bokka)
 
 ## Pinned Repositories
-- [F1 Predictor](https://github.com/Varun-278/f1-predictor)
-- [Orders Data Analysis](https://github.com/Varun-278/orders-data-analysis)
-- [Churn Prediction using ANN](https://github.com/Varun-278/churn-prediction-ann)
+- [F1 Predictor](https://github.com/Varun-278/F1-2024-Predictor)
+- [Orders Data Analysis](https://github.com/Varun-278/Orders-Data-Analysis)
+- [Churn Prediction using ANN](https://github.com/Varun-278/Churn-Prediction-using-ANN)
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
