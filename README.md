@@ -12,12 +12,14 @@
 - [Orders Data Analysis](https://github.com/Varun-278/orders-data-analysis)
 - [Churn Prediction using ANN](https://github.com/Varun-278/churn-prediction-ann)
 
-## Languages and Tools
+## Programming Languages
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+
+## Tools
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
@@ -40,17 +42,16 @@
 ![Data Science](https://img.shields.io/badge/-Data_Science-333333?style=flat&logo=data-science)
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-333333?style=flat&logo=machine-learning)
 ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-333333?style=flat&logo=deep-learning)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 
 ## Contributions
 - Contributed to various open-source projects to enhance my skills and collaborate with the community.
 - Actively participating in data science and machine learning communities.
 
 Feel free to explore my repositories and get in touch for collaboration!
+
+
+
+
+
+
 
