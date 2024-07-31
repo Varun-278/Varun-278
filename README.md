@@ -20,16 +20,23 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 
 ## Tools
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+
+### Best Frameworks and Main Libraries for Python3:
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-333333?style=flat&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
+
+### My Tools for Data Manipulation & Visualization:
+![Conda](https://img.shields.io/badge/-Conda-333333?style=flat&logo=anaconda)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MsSQL](https://img.shields.io/badge/-MsSQL-333333?style=flat&logo=microsoft-sql-server)
+![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-333333?style=flat&logo=microsoft-excel)
+![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=mathworks)
 
 ## Skills
 ![Regression](https://img.shields.io/badge/-Regression-333333?style=flat&logo=regression)
@@ -48,10 +55,6 @@
 - Actively participating in data science and machine learning communities.
 
 Feel free to explore my repositories and get in touch for collaboration!
-
-
-
-
 
 
 
