@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Profile!
 
-👋 Hi, I'm Varun Bokka! 
+👋 Hi, I'm Varun! 
 
 🌟 Third-year Computer Science student at Mahindra University.  
 💡 Passionate about Machine Learning, Data Science, and Cloud Computing.  
