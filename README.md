@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Varun! 
 
-🌟 Third-year Computer Science student at Mahindra University.  
+🌟 Final-year Computer Science student at Mahindra University.  
 💡 Passionate about Machine Learning, Data Science, and Cloud Computing.  
 🔭 Currently working on predictive modeling and data analysis projects.  
 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/naga-varun-bokka)
