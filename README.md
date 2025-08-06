@@ -1,64 +1,91 @@
 ### Welcome to my GitHub Profile!
 
-👋 Hi, I'm Varun! 
+👋 Hi, I'm Varun!  
 
 🌟 Final-year Computer Science student at Mahindra University.  
-💡 Passionate about Machine Learning, Data Science, and Cloud Computing.  
-🔭 Currently working on predictive modeling and data analysis projects.  
+⚙️ Passionate about building intelligent systems across Data Engineering, Machine Learning, and AI.  
+🔭 Currently working on scalable ETL/ELT pipelines, LLM-powered assistants, and predictive modeling.  
 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/naga-varun-bokka)
 
-## Pinned Repositories
-- [F1 Predictor](https://github.com/Varun-278/F1-2024-Predictor)
-- [Orders Data Analysis](https://github.com/Varun-278/Orders-Data-Analysis)
-- [Churn Prediction using ANN](https://github.com/Varun-278/Churn-Prediction-using-ANN)
+---
 
-## Programming Languages
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+## 🔧 Pinned Repositories
+- [F1 Predictor](https://github.com/Varun-278/F1-2024-Predictor) – ML model for race outcome prediction  
+- [Orders Data Analysis](https://github.com/Varun-278/Orders-Data-Analysis) – E-commerce SQL + Python data prep  
+- [Churn Prediction using ANN](https://github.com/Varun-278/Churn-Prediction-using-ANN) – ANN pipeline with evaluation  
+- [Financial KPI Assistant (RAG Chatbot)](https://github.com/Varun-278/Financial-KPI-Assistant) – LLM-based chatbot with KPI indexing
+
+---
+
+## 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 
+---
 
-## Tools
+## 🔍 Tools & Frameworks
 
-### Best Frameworks and Main Libraries for Python3:
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
-![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+### 🧠 Machine Learning & Deep Learning
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-333333?style=flat&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
+![YOLOv7](https://img.shields.io/badge/-YOLOv7-333333?style=flat&logo=darkreader)
 
-### My Tools for Data Manipulation & Visualization:
-![Conda](https://img.shields.io/badge/-Conda-333333?style=flat&logo=anaconda)
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MsSQL](https://img.shields.io/badge/-MsSQL-333333?style=flat&logo=microsoft-sql-server)
-![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)
+### ⚙️ Data Engineering & Pipelines
+![Apache NiFi](https://img.shields.io/badge/-Apache_NiFi-333333?style=flat&logo=apache)
+![Meltano](https://img.shields.io/badge/-Meltano-333333?style=flat&logo=)
+![PySpark](https://img.shields.io/badge/-PySpark-333333?style=flat&logo=apache-spark)
+![dbt](https://img.shields.io/badge/-dbt-333333?style=flat&logo=dbt)
+![HDFS](https://img.shields.io/badge/-HDFS-333333?style=flat&logo=hadoop)
+
+### 🌐 LLMs & RAG
+![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=)
+![LangGraph](https://img.shields.io/badge/-LangGraph-333333?style=flat&logo=)
+![FAISS](https://img.shields.io/badge/-FAISS-333333?style=flat&logo=)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-333333?style=flat&logo=huggingface)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-333333?style=flat&logo=)
+
+### 📊 Data Manipulation & Visualization
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
-![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-333333?style=flat&logo=microsoft-excel)
-![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=mathworks)
+![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=)
+![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)
+![Microsoft Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
 
-## Skills
-![Regression](https://img.shields.io/badge/-Regression-333333?style=flat&logo=regression)
-![Classification](https://img.shields.io/badge/-Classification-333333?style=flat&logo=classification)
-![Clustering](https://img.shields.io/badge/-Clustering-333333?style=flat&logo=clustering)
-![Neural Networks](https://img.shields.io/badge/-Neural_Networks-333333?style=flat&logo=neural-networks)
-![Computer Vision](https://img.shields.io/badge/-Computer_Vision-333333?style=flat&logo=computer-vision)
-![NLP](https://img.shields.io/badge/-NLP-333333?style=flat&logo=nlp)
-![Data Analysis](https://img.shields.io/badge/-Data_Analysis-333333?style=flat&logo=data-analysis)
-![Data Science](https://img.shields.io/badge/-Data_Science-333333?style=flat&logo=data-science)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-333333?style=flat&logo=machine-learning)
-![Deep Learning](https://img.shields.io/badge/-Deep_Learning-333333?style=flat&logo=deep-learning)
-![AWS Cloud Computing](https://img.shields.io/badge/-AWS_Cloud_Computing-333333?style=flat&logo=amazon-aws)
+---
 
-## Contributions
-- Contributed to various open-source projects to enhance my skills and collaborate with the community.
-- Actively participating in data science and machine learning communities.
+## 🧠 Core Skills
+![Data Engineering](https://img.shields.io/badge/-Data_Engineering-333333?style=flat&logo=)
+![ETL/ELT Pipelines](https://img.shields.io/badge/-ETL/ELT_Pipelines-333333?style=flat&logo=)
+![Data Preprocessing](https://img.shields.io/badge/-Data_Preprocessing-333333?style=flat&logo=)
+![Data Transformation](https://img.shields.io/badge/-Data_Transformation-333333?style=flat&logo=)
+![Model Evaluation](https://img.shields.io/badge/-Model_Evaluation-333333?style=flat&logo=)
+![Regression](https://img.shields.io/badge/-Regression-333333?style=flat&logo=)
+![Classification](https://img.shields.io/badge/-Classification-333333?style=flat&logo=)
+![Neural Networks](https://img.shields.io/badge/-Neural_Networks-333333?style=flat&logo=)
+![LLMs](https://img.shields.io/badge/-LLMs-333333?style=flat&logo=)
+![Retrieval-Augmented Generation](https://img.shields.io/badge/-RAG-333333?style=flat&logo=)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 
-Feel free to explore my repositories and get in touch for collaboration!
+---
+
+## 🌱 Contributions & Learning
+- 🔁 Currently contributing to projects that combine LLMs, vector search, and data engineering pipelines.  
+- 📚 Exploring MLOps concepts, model orchestration, and data reliability workflows.  
+- 🛠 Always open to collaborative ideas that intersect AI, engineering, and real-world problem-solving.
+
+---
+
+💬 Feel free to explore my repositories, reach out for collaboration, or just connect to geek out over data pipelines and smart systems!
+
+
 
 
 
